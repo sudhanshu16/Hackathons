@@ -37,6 +37,7 @@ The ultimate list of hackathons
 | [HackDuke: Code For Good](https://www.hackduke.org/) | Durham, NC | 11.19 - 11.20 |
 | [InFuture](http://www.infuture.io/) | New York, NY | 11.19 - 11.20 |
 | [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 12.03 |
+| [Health++](https://hackinghealth.devpost.com/) | Palo Alto, CA | 11.05 - 11.06 |
 
 | Hackathon                                                | Location (US)       | Date (2017)            | High School |
 | -------------------------------------------------------------- |-------------  | :---------------------:|:-----------:|
